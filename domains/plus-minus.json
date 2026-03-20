@@ -1,0 +1,11 @@
+{
+  "description": "PlusMinus NBA Analytics Dashboard",
+  "repo": "https://github.com/l9rins/plusminus",
+  "owner": {
+    "username": "l9rins",
+    "email": "lorenzbarangan112@gmail.com"
+  },
+  "record": {
+    "CNAME": "plus-minus-eight.vercel.app"
+  }
+}
